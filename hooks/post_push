@@ -1,4 +1,4 @@
 #!/bin/bash
 
 docker tag $IMAGE_NAME $DOCKER_REPO:0.1
-docker tag $IMAGE_NAME $DOCKER_REPO:latest
+docker tag $IMAGE_NAME $DOCKER_REPO:v0.1
